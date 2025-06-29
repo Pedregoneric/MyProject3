@@ -50,6 +50,11 @@
 		{
 			"Name": "MetaHumanSDK",
 			"Enabled": false
+		},
+		{
+			"Name": "MapSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1dc468c59b4f483591c13f7121aa7d48"
 		}
 	]
 }
