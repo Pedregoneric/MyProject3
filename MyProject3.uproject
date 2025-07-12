@@ -67,6 +67,10 @@
 		{
 			"Name": "SkyScape",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
